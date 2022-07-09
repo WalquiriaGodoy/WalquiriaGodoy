@@ -2,18 +2,9 @@
 
 <p>Com 31 anos, tenho formação em Física pela Universidade de São Paulo, sou mestre em filosofia pela mesma instituição e já atuei como professora de Física. Me considero uma estudante profissional e tenho amado a área de desenvolvimento web, não só por envolver o raciocinio lógico, com o qual tenho muita habilidade, mas principalmente por me proporcionar a todo momento desafios em relação à resolução de problemas e por me colocar em constante evolução e aprendizado. Considero-me uma pessoa bastante sociável, responsável e capaz de aprender qualquer coisa. Atualmente desenvolvo uma página web para a minha escola de dança. </p>
 
-### Principal projeto desenvolvido:
-  <a href="https://github.com/WalquiriaGodoy/react-typescript-web-page-lab">
+### Principais projeto desenvolvido:
+  <img width="50px" src="logolab2.png"/>
   </a>
-
-### Contatos:
-
-<div>
-<a href = "mailto:walquiriagodoy@gmail.com"><img width="80px" src="https://img.icons8.com/clouds/344/apple-mail.png" target="_blank"></a>
- <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
 
 ### Formação Acadêmica:
 <div style="display: inline_block"  >
@@ -48,6 +39,15 @@
     />
   </a>
 </p>
+
+### Contatos:
+
+<div>
+<a href = "mailto:walquiriagodoy@gmail.com"><img width="80px" src="https://img.icons8.com/clouds/344/apple-mail.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
 
 
