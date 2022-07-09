@@ -1,6 +1,5 @@
 ## Olá, eu sou a Wal! <img src="moca-trabalhando.gif" width="30px"></h2>
 
-
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - 👨‍💻 Estudante de programação. </p>
@@ -26,6 +25,8 @@
 ### Contatos:
 
 <div>
-<a href = "mailto:walquiriagodoy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/walquiria-godoy-502848226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:walquiriagodoy@gmail.com"><img width="80px" src="https://img.icons8.com/clouds/344/apple-mail.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 </div>
