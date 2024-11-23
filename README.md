@@ -53,7 +53,9 @@
 
 <div>
 <a href = "mailto:walquiriagodoy@gmail.com"><img width="80px" src="https://img.icons8.com/clouds/344/apple-mail.png" target="_blank"></a>
- <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+ <a href="www.linkedin.com/in/walquiria-godoy-502848226
+
+">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
