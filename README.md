@@ -1,6 +1,8 @@
 ## Desenvolvedora Walquiria Godoy
 
-<p>Com 31 anos, tenho formação em Física pela Universidade de São Paulo, sou mestre em filosofia pela mesma instituição e atuei por 7 anos como professora de Física. Me considero uma estudante profissional e tenho amado a área de desenvolvimento web, não só por envolver o raciocinio lógico, com o qual tenho muita habilidade, mas principalmente por me proporcionar a todo momento desafios em relação à resolução de problemas e por me colocar em constante evolução e aprendizado. Considero-me uma pessoa bastante sociável, responsável e capaz de aprender qualquer coisa. Atualmente sou desenvolvedora de Front End na Compra Rápida e nas horas vagas desenvolvo a página web da escola de dança da qual sou proprietária </p>
+<p>Com 33 anos, tenho formação em Física pela Universidade de São Paulo e sou mestre em Fundamentos da Física Quântica pela mesma instituição. Considero-me uma estudante profissional e tenho amado a área de desenvolvimento web, não só por envolver o raciocinio lógico, com o qual tenho muita habilidade, mas principalmente por me proporcionar a todo momento desafios em relação à resolução de problemas e por me colocar em constante evolução e aprendizado. Considero-me uma pessoa bastante sociável, responsável e capaz de aprender qualquer coisa.</p>
+  
+<p>Atualmente sou desenvolvedora de Front End na Compra Rápida e nas horas vagas desenvolvo a página web da escola de dança da qual sou proprietária </p>
 
 ### Organização Lab Escola de Dança:
   <a href="https://github.com/Lab-Escola-de-Danca"> <img width="50px" title = "React.ts" src="logolab2.png"/>
