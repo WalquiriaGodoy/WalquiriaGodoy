@@ -2,7 +2,7 @@
 
 <p>Com 33 anos, tenho formação em Física pela Universidade de São Paulo e sou mestre em Fundamentos da Física Quântica pela mesma instituição. Considero-me uma estudante profissional e tenho amado a área de desenvolvimento web, não só por envolver o raciocinio lógico, com o qual tenho muita habilidade, mas principalmente por me proporcionar a todo momento desafios em relação à resolução de problemas e por me colocar em constante evolução e aprendizado. Considero-me uma pessoa bastante sociável, responsável e capaz de aprender qualquer coisa.</p>
   
-<p>Atualmente sou desenvolvedora de Front End na <a href="https://www.linkedin.com/company/comprarapida/posts/?feedView=all">Compra Rápida</a> e nas horas vagas gerencio e desenvolvo as aplicações web do <a href="https://www.laboratoriodeforro.com.br/">Laboratório de Forró</a></p>
+<p>Atualmente sou desenvolvedora de Front End na <a href="https://www.linkedin.com/company/comprarapida/posts/?feedView=all">Compra Rápida</a> e nas horas vagas gerencio e desenvolvo as aplicações web da <a href="https://github.com/Lab-Escola-de-Danca">Lab Escola de Dança</a></p>
 
 ### Organização Lab Escola de Dança:
   <a href="https://github.com/Lab-Escola-de-Danca"> <img width="50px" title = "React.ts" src="logolab2.png"/>
