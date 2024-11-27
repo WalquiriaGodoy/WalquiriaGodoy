@@ -4,7 +4,7 @@
   
 <p>Atualmente sou desenvolvedora de Front End na <a href="https://www.linkedin.com/company/comprarapida/posts/?feedView=all">Compra Rápida</a> e nas horas vagas gerencio e desenvolvo as aplicações do <a href="https://www.laboratoriodeforro.com.br/">Laboratório de Forró</a></p>
 
-### Organização <a href="https://github.com/Lab-Escola-de-Danca">Lab Escola de Dança</a>:
+### Organização Lab Escola de Dança:
   <a href="https://github.com/Lab-Escola-de-Danca"> <img width="50px" title = "React.ts" src="logolab2.png"/>
   </a> 
 
